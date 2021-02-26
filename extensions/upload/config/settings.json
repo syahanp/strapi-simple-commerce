@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name": "syahanp",
+        "api_key": "982742738886567",
+        "api_secret": "6FvE6g3KgwHimCyX5cix3MnF118"
+    }
+}
