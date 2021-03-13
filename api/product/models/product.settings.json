@@ -35,6 +35,12 @@
     "category": {
       "model": "category",
       "via": "product"
+    },
+    "isRecommended": {
+      "type": "boolean"
+    },
+    "isTrending": {
+      "type": "boolean"
     }
   }
 }
